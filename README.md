@@ -13,11 +13,13 @@ Not Kaspa core. Not an audit. Not a token. Not a listing.
 
 ## The three, separately
 
-| # | Post | Product | File | Issue |
+| Review | Post | Product | File | Issue |
 | --- | --- | --- | --- | --- |
-| 1 | [@ReconProtocol quoting @GoonBoyCrypto](https://x.com/reconprotocol/status/2099513163112652929) | [kasstacker.org](https://kasstacker.org) | [01-kasstacker.md](01-kasstacker.md) | [#1](https://github.com/STP-KAS/three-x-reviews/issues/1) |
-| 2 | [@ReconProtocol 1/10 x402 thread](https://x.com/reconprotocol/status/2099560794035736754) | [kaspa-x402.org](https://kaspa-x402.org) / [elldeeone/kaspa-x402](https://github.com/elldeeone/kaspa-x402) | [02-kaspa-x402.md](02-kaspa-x402.md) | [#2](https://github.com/STP-KAS/three-x-reviews/issues/2) |
+| 1 | [@ReconProtocol quoting @GoonBoyCrypto](https://x.com/reconprotocol/status/2099513163112652929) | [kasstacker.org](https://kasstacker.org) | [01-kasstacker.md](01-kasstacker.md) | [#2](https://github.com/STP-KAS/three-x-reviews/issues/2) |
+| 2 | [@ReconProtocol 1/10 x402 thread](https://x.com/reconprotocol/status/2099560794035736754) | [kaspa-x402.org](https://kaspa-x402.org) / [elldeeone/kaspa-x402](https://github.com/elldeeone/kaspa-x402) | [02-kaspa-x402.md](02-kaspa-x402.md) | [#1](https://github.com/STP-KAS/three-x-reviews/issues/1) |
 | 3 | [@0xKnitser quoting @kascovio](https://x.com/0xknitser/status/2099587647018873308) | [kascov.io](https://kascov.io) | [03-kascov.md](03-kascov.md) | [#3](https://github.com/STP-KAS/three-x-reviews/issues/3) |
+
+GitHub issue numbers are creation order, not review order. Send the issue, not the review number.
 
 Read the files. The issues are the same text so they can be sent one at a time.
 
